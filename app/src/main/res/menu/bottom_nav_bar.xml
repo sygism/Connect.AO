@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="connections_page"
+        android:icon="@drawable/p_speaker"
+        android:title="@string/connections" />
+    <item
+        android:id="equalizer"
+        android:icon="@drawable/audio_wave"
+        android:title=""/>
+    <item
+        android:id="player"
+        android:icon="@drawable/play_button"
+        android:title=""/>
+</menu>

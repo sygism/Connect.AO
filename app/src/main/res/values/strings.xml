@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Connect.AIO</string>
+    <string name="L">Left speaker</string>
+    <string name="R">Right speaker</string>
+    <string name="equalizer">Equalizer</string>
+    <string name="connections">Connections</string>
+    <string name="player">Player</string>
+    <string name="not_connected">No speaker connected</string>
+    <string name="connect_speaker">Connect speaker</string>
+    <string name="volume">Volume</string>
+    <string name="volume_sample_value">100%</string>
+    <string name="delay">Stream delay</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="sample_delay_value">10ms</string>
+</resources>

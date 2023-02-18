@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title_size_1">
+        <item name="android:size">16sp</item>
+    </dimen>
+    <dimen name="body_text_size">
+        <item name="android:size">14sp</item>
+    </dimen>
+</resources>
