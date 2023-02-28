@@ -6,13 +6,12 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/def_bg"
-    tools:context=".fragments.connections_fragment">
+    tools:context=".fragments.ConnectionsFragment">
 
     <LinearLayout
         android:id="@+id/connections_panels"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="20dp"
         android:baselineAligned="false"
         android:orientation="vertical"
         app:layout_constraintEnd_toEndOf="parent"
@@ -42,7 +41,8 @@
                     android:layout_width="50dp"
                     android:layout_height="50dp"
                     android:layout_gravity="center_horizontal"
-                    android:src="@drawable/speaker" />
+                    android:src="@drawable/speaker"
+                    tools:ignore="ImageContrastCheck" />
 
                 <TextView
                     android:id="@+id/r_speaker_panel_title"

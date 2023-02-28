@@ -7,10 +7,15 @@
     <string name="player">Player</string>
     <string name="not_connected">No speaker connected</string>
     <string name="connect_speaker">Connect speaker</string>
+    <string name="disconnect">Disconnect</string>
     <string name="volume">Volume</string>
     <string name="volume_sample_value">100%</string>
     <string name="delay">Stream delay</string>
     <string name="plus">+</string>
     <string name="minus">-</string>
     <string name="sample_delay_value">10ms</string>
+    <string name="connect_to_device">Connect to a speaker</string>
+    <string name="cancel">Cancel</string>
+    <string name="sample_device_name">JBL Generic Speaker</string>
+    <string name="sample_uuid">5fd62af8–6b8a-44ff-8c55-f80e23888e14</string>
 </resources>

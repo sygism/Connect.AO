@@ -3,11 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/IdeaProjects/ConnectAIO/app/src/main/res/drawable/bg_anim.xml" value="0.108" />
         <entry key="..\:/IdeaProjects/ConnectAIO/app/src/main/res/drawable/bg_view.xml" value="0.1645" />
         <entry key="..\:/IdeaProjects/ConnectAIO/app/src/main/res/drawable/connect_btn_bgh.xml" value="0.1645" />
         <entry key="..\:/IdeaProjects/ConnectAIO/app/src/main/res/drawable/connection_panel_bg.xml" value="0.1645" />
         <entry key="..\:/IdeaProjects/ConnectAIO/app/src/main/res/drawable/disconnect_btn_bgh.xml" value="0.1645" />
         <entry key="..\:/IdeaProjects/ConnectAIO/app/src/main/res/layout/activity_connect_devices.xml" value="0.264" />
+        <entry key="..\:/IdeaProjects/ConnectAIO/app/src/main/res/layout/alert_discovery_layout.xml" value="0.253125" />
+        <entry key="..\:/IdeaProjects/ConnectAIO/app/src/main/res/layout/discovered_device_list_layout.xml" value="0.25416666666666665" />
         <entry key="..\:/IdeaProjects/ConnectAIO/app/src/main/res/layout/fragment_connections_fragment.xml" value="0.33" />
         <entry key="..\:/IdeaProjects/ConnectAIO/app/src/main/res/menu/bottom_nav_bar.xml" value="0.1" />
       </map>
